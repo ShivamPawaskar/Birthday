@@ -26,6 +26,9 @@ pnpm-debug.log*
 # vercel
 .vercel/
 
+# runtime uploads (keep local, do not commit)
+public/uploads/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
