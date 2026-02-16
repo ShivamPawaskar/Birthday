@@ -1,0 +1,510 @@
+{
+  "storyBlocks": [
+    {
+      "id": "01",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "dreamy",
+      "handwrittenTitle": "Last Year’s Drop",
+      "title": "I remember the way you smiled that night. ",
+      "paragraph": [
+        "I was so glad I got to spend that day with you last year. From watching your eyes light up at the cat café, gently smiling as you played with the cats, to laughing like carefree kids at the bounce park — every second felt easy and perfect.",
+        "Giving you that memory album, filled with your photos and little pieces of your world, and seeing your expression change as you turned each page is something I’ll never forget.",
+        "The quiet happiness in your eyes, the way your smile slowly grew — it made that day feel even more special.",
+        "It wasn’t just your birthday. It was one of those rare moments I wish I could pause and live in forever."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770920850647-whatsapp-image-2026-02-12-at-11.56.02-pm.jpeg",
+      "audioSrc": "/audio/1770920150225-don-toliver---you-feat.-travis-scott-official-audio---192-kbps-1.mp3",
+      "songIconSrc": "/media/1770920150273-you.jpg"
+    },
+    {
+      "id": "letter-01",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "You didn’t just turn a year older — you made my world brighter."
+      ]
+    },
+    {
+      "id": "02",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "warm",
+      "handwrittenTitle": "Golden Hour With You",
+      "title": "The way you smiled at your cup",
+      "paragraph": [
+        "That afternoon felt slower, softer — like the world decided to move gently just for us. You were sitting there with that quiet smile, completely at peace, and I couldn’t stop looking at you. The warm light around you made everything feel calm and intimate, like a little moment the universe created just for us. It wasn’t loud or dramatic — just simple, real, and beautiful. And somehow, being there with you in that quiet café became one of my favorite memories."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770923911942-whatsapp-image-2026-02-13-at-12.22.50-am.jpeg",
+      "audioSrc": "/audio/1770924518452-jvke---golden-hour-official-music-video.mp3",
+      "songIconSrc": "/media/1770923912108-a3116366373_16.jpg"
+    },
+    {
+      "id": "letter-02",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "We talked about everything… and somehow it still wasn’t enough."
+      ]
+    },
+    {
+      "id": "03",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "nostalgic",
+      "handwrittenTitle": "The Moment That Melted Me",
+      "title": "You looked like home",
+      "paragraph": [
+        "When I saw you holding that baby so gently, something shifted inside me. I don’t even know how to explain it — I just felt this quiet warmth in my chest. It made me look at you differently, deeper. I felt proud, lucky, and strangely peaceful all at once. In that moment, it wasn’t loud or dramatic… it was just pure. And I realized that the softness in you, the way you care without even trying, is one of the many reasons my heart feels so safe with you."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770979291972-whatsapp-image-2026-02-13-at-1.14.27-am.jpeg",
+      "audioSrc": "/audio/1770979292159-eagles---hotel-california-official-audio.mp3",
+      "songIconSrc": "/media/1770979292180-images-1.jpg"
+    },
+    {
+      "id": "letter-03",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "In that quiet moment, my heart learned something it didn’t have words for."
+      ]
+    },
+    {
+      "id": "04",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "playful",
+      "handwrittenTitle": "Since Day One",
+      "title": "Same pose. Same souls. Just grown into love.",
+      "paragraph": [
+        "From that tiny, wide-eyed girl in the old photo",
+        "to the confident, beautiful woman you are today.",
+        "You’ve grown in strength, in grace, in the way you carry yourself.",
+        "But somehow, you never lost that softness, that spark, that innocence.",
+        "The world may see how much you’ve grown —",
+        "but I still see the same pure smile that made everything brighter."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770928067172-5.jpeg",
+      "audioSrc": "/audio/1770928067194-coldplay---fix-you-lyrics.mp3",
+      "songIconSrc": "/media/1770928067208-ab67616d0000b2734e0362c225863f6ae2432651.jpg"
+    },
+    {
+      "id": "letter-04",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "No Matter How Grown You Become I Would Still Try To Find The Baby In You"
+      ]
+    },
+    {
+      "id": "05",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "dreamy",
+      "handwrittenTitle": "Her moment",
+      "title": "Where Hard Work Met Her Spark",
+      "paragraph": [
+        "Mindspark wasn’t just an event — it was your vision brought to life.",
+        "I saw the effort, the long hours, the dedication you gave without ever complaining.",
+        "You carried responsibility with confidence and turned pressure into something beautiful.",
+        "And when everything came together, you didn’t just succeed — you glowed.",
+        "I’m so incredibly proud of you, not just for what you achieved, but for the strength and passion you carry in everything you do."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770929122860-2.jpeg",
+      "audioSrc": "/audio/1770929123027-dr.-dog---where-d-all-the-time-go-lyrics-where-d-all-the-time-go-it-s-starting-to-fly-tiktok-song.mp3",
+      "songIconSrc": "/media/1770929123047-ab67616d0000b2730478062bc04df0947d232fcb.jpg"
+    },
+    {
+      "id": "letter-10",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "I didn’t just see a design lead — I saw the woman I deeply admire."
+      ]
+    },
+    {
+      "id": "memory-06",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "nostalgic",
+      "handwrittenTitle": "For this life I cannot change",
+      "title": "Wild, Free, Fully Alive",
+      "paragraph": [
+        "The night felt straight out of Astroworld.",
+        "Heavy bass, flashing lights, and that unstoppable energy in the air.",
+        "When the beat dropped, the whole place transformed — and so did you.",
+        "It wasn’t just a concert moment, it was a “Highest in the Room” kind of vibe.",
+        "Wild, free, and fully alive.",
+        "But beyond the noise and the lights, it felt like a memory you’ll carry for a long time — one of those nights that remind you how good it feels to just let go and live."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770931634072-whatsapp-image-2026-02-13-at-2.37.15-am.jpeg",
+      "audioSrc": "/audio/1770931634107-travis-scott---dumbo-official-audio.mp3",
+      "songIconSrc": "/media/1770931634121-30cf0ae57807a70074ef09cf856dbc83.600x600x1.jpg"
+    },
+    {
+      "id": "le",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "“Look in my eyes, tell me a tale",
+        "Do you see the road, the map to my soul?”"
+      ]
+    },
+    {
+      "id": "memory-13",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "warm",
+      "handwrittenTitle": "The Real Phataka",
+      "title": "She Lit Up Diwali",
+      "paragraph": [
+        "We weren’t talking then.",
+        "But that didn’t stop me from noticing how beautiful you looked that night.",
+        "The lights were everywhere, yet somehow you shined brighter.",
+        "Wrapped in tradition, glowing in that purple, you looked peaceful and radiant.",
+        "Even from a distance, you were still my favorite sight."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770931648005-4.jpeg",
+      "audioSrc": "/audio/1770931648061-i-deny-me---peter-cat-recording-co..mp3",
+      "songIconSrc": "/media/1770931648080-unnamed.jpg"
+    },
+    {
+      "id": "letter-14",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "A hundred clicks, and still not enough to capture how beautiful you are."
+      ]
+    },
+    {
+      "id": "memory-15",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "playful",
+      "handwrittenTitle": "Her comfort artist",
+      "title": "She knew every word",
+      "paragraph": [
+        "You didn’t just listen to his music — you lived in it.",
+        "Those songs held parts of you no one else could see.",
+        "So when you finally stood there, under those lights, hearing them live… it wasn’t normal excitement.",
+        "It must’ve felt like the universe turned the volume up on your own heartbeat.",
+        "That wasn’t just a concert.",
+        "It was the soundtrack of your life playing right in front of you — loud, wild, and unapologetically real."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770932257482-whatsapp-image-2026-02-13-at-3.03.51-am.jpeg",
+      "audioSrc": "/audio/1770932257504-don-toliver---no-pole-official-visualizer.mp3",
+      "songIconSrc": "/media/1770932257517-e9b1e3420362778dc3953c14c8ca3ba5.1000x1000x1.png"
+    },
+    {
+      "id": "letter-16",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "You Were Just As Sweet As Tiramisu And I Guess I Would Always Keep Fallin For You"
+      ]
+    },
+    {
+      "id": "memory-17",
+      "kind": "memory",
+      "chapter": "how-we-met",
+      "chapterLabel": "How We Met",
+      "chapterNote": "Where everything quietly changed.",
+      "theme": "warm",
+      "handwrittenTitle": "One I Prayed For",
+      "title": "Became Who I Prayed With",
+      "paragraph": [
+        "Being there with you felt peaceful in a way that’s hard to explain.",
+        "When you fed me, it wasn’t loud or dramatic — it was simple and full of care.",
+        "Later, walking by the beach, the air felt lighter and everything felt easy.",
+        "I kept clicking your pictures, not just because you looked beautiful, but because I wanted to freeze that version of you in that moment.",
+        "It wasn’t a big day — but it was one that felt deeply ours."
+      ],
+      "mediaType": "image",
+      "mediaSrc": "/media/1770935389401-whatsapp-image-2026-02-13-at-3.51.18-am.jpeg",
+      "audioSrc": "/audio/1770935389437-the-strokes---selfless-official-audio.mp3",
+      "songIconSrc": "/media/1770935389454-791198364724049cdcb787a03fe7700f.1000x1000x1.png"
+    },
+    {
+      "id": "letter-18",
+      "kind": "letter",
+      "theme": "intimate",
+      "lines": [
+        "No matter where we stand, I’ll always ask for your happiness.",
+        "In every temple, in every quiet moment — I’ll pray for you."
+      ]
+    }
+  ],
+  "chapterTwo": {
+    "memories": [
+      {
+        "id": "hang-1",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985887814-whatsapp-video-2026-02-11-at-12.03.00-am.mp4",
+        "message": "The Way You Said \"Lau Ka\" Just Melted Me .........",
+        "shortMessage": "The Way You Said \"Lau Ka\" Just Melted Me ........."
+      },
+      {
+        "id": "hang-2",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985910580-whatsapp-video-2026-02-13-at-5.43.37-pm.mp4",
+        "message": "CAPY..... BARA........ CAPYBARA CAPYBARA CAPYBARA CAPYBARA ",
+        "shortMessage": "CAPY..... BARA........ CAPYBARA CAPYBARA CAPYBARA CAPYBARA "
+      },
+      {
+        "id": "hang-3",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985751739-whatsapp-video-2026-02-13-at-5.51.32-pm.mp4",
+        "message": "Two Catoo One Frame But Guess What I Love More",
+        "shortMessage": "Two Catoo One Frame But Guess What I Love More"
+      },
+      {
+        "id": "hang-4",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985782990-whatsapp-video-2026-02-13-at-5.51.55-pm.mp4",
+        "message": "My Traditional Beauty How Do You Look So Beautiful",
+        "shortMessage": "My Traditional Beauty How Do You Look So Beautiful"
+      },
+      {
+        "id": "hang-5",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985790717-whatsapp-video-2026-02-13-at-5.43.12-pm.mp4",
+        "message": "I Could Keep Clicking More Pics While Admiring Your Beauty",
+        "shortMessage": "I Could Keep Clicking More Pics While Admiring Your Beauty"
+      },
+      {
+        "id": "hang-6",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985802028-whatsapp-video-2026-02-13-at-5.43.38-pm.mp4",
+        "message": "Do I Even Need To Explain It To The Hottest Girl Ever Existed",
+        "shortMessage": "Do I Even Need To Explain It To The Hottest Girl Ever Existed"
+      },
+      {
+        "id": "hang-7",
+        "coverSrc": "/images/4.jpeg",
+        "videoSrc": "/video/1770985813160-whatsapp-video-2026-02-13-at-5.51.34-pm.mp4",
+        "message": "I could listen to this my entire life and die peacefully",
+        "shortMessage": "I could listen to this my entire life and die peacefully"
+      }
+    ],
+    "backgroundMusic": {
+      "audioSrc": "/audio/1771002392535-girl-in-red---we-fell-in-love-in-october-lyrics.mp3",
+      "autoplay": true,
+      "defaultVolume": 0.3
+    },
+    "display": {
+      "theme": "dreamy",
+      "introLabel": "Chapter",
+      "introTitle": "The Moment I Didn’t Want to End",
+      "introNote": "The moments I replay when I miss you.",
+      "sectionTitle": "Hanging Polaroid Memories",
+      "showSectionTitle": false,
+      "showMuteButton": false
+    }
+  },
+  "chapterThree": {
+    "theme": "dreamy",
+    "chapterLabel": "Chapter",
+    "chapterTitle": "Her World",
+    "chapterNote": "Unlock the word connecting everything she loves.",
+    "unlockPrompt": "Enter the word that connects all her favorites.",
+    "password": "FOREVER",
+    "unlockMessage": "When I see the things you love, I honestly just smile. The way you laugh at Burnt Peanut saying “goop” like it’s the funniest thing ever… or how you act normal about Sidemen but it’s really just Tobi you’re waiting for. I see how you lowkey love Nick Wilde’s attitude, how you get so into shows like Euphoria, and how Modern Family is your comfort after a long day. And when you’re playing Minecraft, just building your own little world, I realize that’s exactly who you are — you find comfort in simple things, you feel everything deeply, and you love in your own quiet way. I don’t just love the things you’re into… I love the way you are when you’re into them.",
+    "backgroundMusic": {
+      "audioSrc": "/audio/1771002696045-whatsapp-video-2026-02-13-at-5.51.34-pm.mp3",
+      "autoplay": true,
+      "defaultVolume": 0.35,
+      "showToggle": true
+    },
+    "favorites": [
+      {
+        "id": "fav-burnt-peanut",
+        "title": "Burnt Peanut",
+        "imageSrc": "/media/1770994012704-b92dfada680b4f50a94b9f8fcc1c9b8d.jpg",
+        "note": "Watching Burnt Peanut with you is honestly one of my favorite things. The way you wait for him to say something completely random — especially that goofy “goop” — and then laugh like it’s the funniest thing in the world, it just makes me love that moment even more. It’s chaotic, loud, and makes absolutely no sense sometimes… but somehow it always feels like your kind of comfort. I know you could sit there and watch him all day without getting bored, just vibing, laughing, rewinding the same parts again. And I think that’s what I love most — not just the videos, but the way your whole mood changes when you’re watching him. It’s your comfort chaos, and getting to share that with you feels like my own little favorite thing too.",
+        "hiddenLetters": [
+          "F"
+        ],
+        "order": 1
+      },
+      {
+        "id": "fav-sidemen",
+        "title": "Sidemen (Tobi)",
+        "imageSrc": "/media/1770994019546-https___d1e00ek4ebabms.cloudfront.net_production_8f26a3f6-2d50-456e-9e3d-91e4d4cc1877.jpg",
+        "note": "You glow every time the Sidemen pop up on your screen — but I know there’s a tiny extra spark when Tobi shows up. It’s your comfort zone, your easy laughter, your no-stress space. You could watch them for hours and never get bored, just smiling at the screen like everything else doesn’t matter. I love that about you — how something so simple can make you that happy. And honestly, watching you enjoy them is better than the video itself.",
+        "hiddenLetters": [
+          "O"
+        ],
+        "order": 2
+      },
+      {
+        "id": "fav-nick-wilde",
+        "title": "Nick Wilde",
+        "imageSrc": "/media/1770994025152-thumb-1920-682626.jpg",
+        "note": "That sly charm energy makes me think of your smile in the quietest way. Not loud, not dramatic — just that gentle curve of your lips that makes everything around me feel lighter. You don’t even try, and yet it stays in my head long after I’ve seen it.",
+        "hiddenLetters": [
+          "R"
+        ],
+        "order": 3
+      },
+      {
+        "id": "fav-euphoria",
+        "title": "Euphoria",
+        "imageSrc": "/media/1770994255691-hd-wallpaper-euphoria-colores-drugs-girl-rue-smoke-tv-show.jpg",
+        "note": "The visuals feel intense, messy, and strangely beautiful… kind of like the way you tease me. There’s this look you give me — like you know exactly what you’re doing — and it’s playful but dangerous in the softest way. It’s chaos wrapped in calm, and I fall for it every single time.",
+        "hiddenLetters": [
+          "E"
+        ],
+        "order": 4
+      },
+      {
+        "id": "fav-modern-family",
+        "title": "Modern Family",
+        "imageSrc": "/media/1770998659387-mfam.jpg",
+        "note": "Watching Modern Family together feels different. It’s not just laughs — it’s the little lessons hidden in between. The way we sit there smiling at the chaos, but quietly understanding the morals behind it. It makes me think about us, about how love isn’t perfect but it’s patient, forgiving, and always choosing each other at the end of the day.",
+        "hiddenLetters": [
+          "V"
+        ],
+        "order": 5
+      },
+      {
+        "id": "fav-minecraft",
+        "title": "Minecraft",
+        "imageSrc": "/media/1770994064022-whatsapp-image-2026-02-10-at-11.55.48-pm.jpeg",
+        "note": "Even the simplest things feel better when we’re doing them together. From building our little home block by block, to fighting the dragon like it actually mattered… from dying in the Nether and laughing about it, to just standing there fishing on some random island — every moment meant more because it was with you. It wasn’t just a game. It was us creating something, messing up, trying again, and just existing in our own small world. I don’t think I could ever forget those moments. If I’m being honest, I wish I could relive them again and again — not because of the game, but because it was you beside me the whole time.",
+        "hiddenLetters": [
+          "E",
+          "R"
+        ],
+        "order": 6
+      }
+    ]
+  },
+  "chapterFour": {
+    "theme": "warm",
+    "chapterLabel": "Chapter",
+    "chapterTitle": "My Love",
+    "chapterNote": "A letter for you.",
+    "letterText": "My Dear Catooo,\n\nIf I had one quiet minute with your heart, I would spend it saying thank you. Thank you for every soft moment, every patient smile, every ordinary day you turned into something unforgettable. I still find pieces of you in my routine — in songs, in empty roads, in the way evening light falls through the window. You made love feel safe for me. You made forever feel possible.\n\nI do not promise perfection. I promise presence. I promise I will keep learning you, choosing you, and protecting the peace we built together. Even when life gets loud, I will always return to this truth: loving you is the most natural thing I have ever done.\n\nYou don’t even realize how much you’ve changed me. The way I think. The way I care. The way I look at the future. Before you, love felt like something uncertain. With you, it feels steady. Gentle. Real. You are not just someone I love — you are someone I feel safe with, someone I admire, someone I want beside me in every version of my life.\n\nI love the way you laugh without holding back. I love the quiet way you feel things deeply. I love the chaos, the softness, the strength you don’t even see in yourself. Every little detail — the way you talk, the way you tease, the way you go quiet when you’re thinking — it all matters to me more than you know.\n\nIf life ever tests us, I want you to remember this: I am here. Not just for the easy days, but for the confusing ones, the heavy ones, the days when you doubt yourself. I will stand beside you. I will remind you who you are when you forget. I will choose you again and again, even on the days it requires patience, growth, and effort.\n\nAnd if you ever forget how deeply you are loved, read this again. And again. And again.\n\nBecause there is no version of my future where I don’t want you in it.\n\nAlways yours.",
+    "scrollSpeed": 14,
+    "backgroundImages": [
+      "/media/1771003881977-7.jpeg",
+      "/media/1771003975233-2.jpeg",
+      "/media/1771003909242-whatsapp-image-2026-02-09-at-1.08.10-am.jpeg",
+      "/media/1771003916757-whatsapp-ime-2026-02-09-at-1.33.08-am.jpeg",
+      "/media/1771003930121-whatsapp-image-2026-02-09-at-1.33.08-am.jpeg"
+    ],
+    "music": {
+      "audioSrc": "/audio/1771002855640-khudgarziya_spotdown.org.mp3",
+      "autoplay": true,
+      "defaultVolume": 0.35,
+      "showToggle": true
+    },
+    "style": {
+      "overlayTint": "rgba(10, 6, 5, 0.42)",
+      "envelopeColor": "#d7b79f",
+      "paperColor": "#f0e2cb",
+      "paperBorderColor": "#dbc4a7",
+      "letterFont": "\"Times New Roman\", serif"
+    }
+  },
+  "chapterFive": {
+    "theme": "warm",
+    "chapterLabel": "Final Chapter",
+    "chapterTitle": "Birthday Celebration",
+    "chapterNote": "A magical little moment for your wish.",
+    "wishText": "Make a Wish",
+    "cakeImageSrc": "/media/1771000688269-0b147fe4b476fb65f891cf79bb2fc352-removebg-preview.png",
+    "candleCount": 5,
+    "hiddenBirthdayMessage": "Happy Birthday Mrudula I Love You And Will Always Be Loving You",
+    "backgroundMusicSrc": "/audio/1771002868384-c418---haggstrom---minecraft-volume-alpha.mp3",
+    "celebrationSoundSrc": "/audio/1771002696045-whatsapp-video-2026-02-13-at-5.51.34-pm.mp3",
+    "micEnabled": true
+  },
+  "chapterMeta": {
+    "how-we-met": {
+      "label": "Memory Wrapped",
+      "note": "You know you my baby now, you're special to me"
+    },
+    "our-journey": {
+      "label": "The Moment I Didn’t Want to End",
+      "note": "The moments I replay when I miss you."
+    },
+    "best-memories-together": {
+      "label": ".......",
+      "note": "........."
+    },
+    "how-i-feel-about-you": {
+      "label": "The Love I  Wanna Give You",
+      "note": "The words I never want to hold back."
+    },
+    "your-favorites": {
+      "label": "MRUDULA'S TOP PICKS",
+      "note": "The little things that are so you."
+    }
+  },
+  "textStyle": {
+    "bodyFont": "Verdana, sans-serif",
+    "displayFont": "var(--font-display), serif",
+    "primaryTextColor": "#ffffff",
+    "secondaryTextColor": "#d9d6df",
+    "accentTextColor": "#9ff6c8",
+    "highlightTextColor": "#b5ffd7"
+  },
+  "highlightWords": [
+    "you",
+    "us",
+    "forever",
+    "home",
+    "love"
+  ],
+  "themeBackground": {
+    "warm": "from-[#1a110f] via-[#2e1717] to-[#12090d]",
+    "nostalgic": "from-[#18121d] via-[#211833] to-[#0f101b]",
+    "dreamy": "from-[#0d1721] via-[#1b2338] to-[#131625]",
+    "intimate": "from-[#0a0b12] via-[#161223] to-[#090b13]",
+    "playful": "from-[#11151b] via-[#1a2531] to-[#101f26]"
+  },
+  "introLines": [
+    "Welcome to Your",
+    "Love Wrapped 2026.",
+    "HAPPIEST  BIRTHDAY MRUDULA AND A HAPPY VALENTIENS DAY SWETIEE"
+  ],
+  "startButtonText": "Enter Love Wrapped",
+  "finalPrimaryLines": [
+    "If love had a birthday,",
+    "it would be today.",
+    "Because you were born."
+  ],
+  "finalSecondaryLines": [
+    "Happy Birthday.",
+    "Happy Valentine's.",
+    "Thank you for Beign There With Me"
+  ],
+  "finalLoveLine": "I LOVE YOU MRUDULA",
+  "replayButtonText": "REPLAY LOVE WRAP",
+  "secretMessage": "I LOVE YOU SO MUCH CATOOOO"
+}
